@@ -1,6 +1,6 @@
 # 🏆 Human Tracking & Posture Detection with NAO Robot Integration
 
-![NAO Robot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nao_robot_-_Aldebaran.png/220px-Nao_robot_-_Aldebaran.png)
+![NAO Robot]([https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nao_robot_-_Aldebaran.png/220px-Nao_robot_-_Aldebaran.png](https://cdn.sanity.io/images/7p2whiua/production/d781adf611c919930c6538866f50acbeef9734ae-2048x1536.jpg?rect=0,0,2048,1152&w=1600&h=900&auto=format))
 
 ## 📌 Project Overview
 This project is an **AI-powered real-time human tracking and posture detection system**, integrated with the **NAO robot** for interactive feedback and gamified Q&A sessions. It utilizes **computer vision, pose estimation, and AI-driven decision-making** to provide engaging and intelligent interactions.
