@@ -1,6 +1,6 @@
 # 🏆 Human Tracking & Posture Detection with NAO Robot Integration
 
-![NAO Robot]()
+![NAO Robot](NAO.avif)
 
 ## 📌 Project Overview
 This project is an **AI-powered real-time human tracking and posture detection system**, integrated with the **NAO robot** for interactive feedback and gamified Q&A sessions. It utilizes **computer vision, pose estimation, and AI-driven decision-making** to provide engaging and intelligent interactions.
@@ -22,19 +22,6 @@ This project is an **AI-powered real-time human tracking and posture detection s
 | **MQTT/WebSocket** | Real-time data transmission |
 
 
-## 📂 Project Structure
-```bash
-📂 nao_posture_tracking
-├── 📁 models          # Pretrained pose detection models
-├── 📁 scripts         # Core AI logic for tracking & interaction
-├── 📁 nao_control     # NAO robot integration scripts
-├── 📁 web_interface   # Optional: Web dashboard for tracking data
-├── config.yaml       # Configuration settings
-├── main.py           # Main execution script
-├── requirements.txt  # Required dependencies
-└── README.md         # Project documentation
-```
-
 
 ## 🏃‍♂️ How It Works
 1. **User stands in front of the camera** 📸.
@@ -54,7 +41,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 📧 **Email:** kitmingtong147@gmail.com
-👔 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+
 
 ---
 🎉 **Let's make AI-powered robotics more interactive!** 🤖
